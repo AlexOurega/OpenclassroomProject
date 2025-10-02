@@ -1,3 +1,21 @@
 h1 {
     color: red;
+
+}
+
+div {
+    width: 400px;
+    background-color:rgb(7, 209, 209) ;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+div h2 {
+    text-align: center;
+    color: red;
 }
